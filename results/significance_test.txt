@@ -1,0 +1,5 @@
+ClimateNarrator R²: 0.4646
+XGBoost R²:         0.3173
+Delta R²:           0.1474
+95% CI for Delta:   [0.4526, 0.4758]
+Bootstrap p-value:  0.0000 (n=1000 resamples)

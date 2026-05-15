@@ -1,0 +1,7 @@
+mechanism,median_damage_present,median_damage_absent,damage_lift (log),n_present
+human_impact,10.309,8.854,1.455,23740
+agricultural_impact,10.127,8.854,1.273,30476
+mobility_disruption,10.127,8.987,1.139,18491
+infrastructure_damage,9.21,8.517,0.693,167050
+geographic_scale,9.21,8.7,0.511,70961
+low_impact_language,9.21,8.987,0.223,57326
