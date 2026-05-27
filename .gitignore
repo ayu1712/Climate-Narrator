@@ -1,3 +1,2 @@
 # Ignore PyTorch models
-*.pt
 *.parquet
