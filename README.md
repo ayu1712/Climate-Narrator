@@ -53,7 +53,7 @@ climate-narrator/
 ├── climate-narrator.ipynb       # Main notebook — full pipeline end to end
 │
 ├── models/
-│   └── README.md                # Pre-trained model download link (Google Drive)
+│   └── best_model.pt                # Pre-trained model
 │
 ├── figures/                     # Generated figures (created at runtime)
 ├── results/                     # Generated CSVs — metrics, predictions, SHAP
